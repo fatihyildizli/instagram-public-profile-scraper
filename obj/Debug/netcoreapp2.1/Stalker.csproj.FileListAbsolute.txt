@@ -1,0 +1,14 @@
+C:\Users\K555L\source\repos\Stalker\Stalker\bin\Debug\netcoreapp2.1\Stalker.deps.json
+C:\Users\K555L\source\repos\Stalker\Stalker\bin\Debug\netcoreapp2.1\Stalker.runtimeconfig.json
+C:\Users\K555L\source\repos\Stalker\Stalker\bin\Debug\netcoreapp2.1\Stalker.runtimeconfig.dev.json
+C:\Users\K555L\source\repos\Stalker\Stalker\bin\Debug\netcoreapp2.1\Stalker.dll
+C:\Users\K555L\source\repos\Stalker\Stalker\obj\Debug\netcoreapp2.1\Stalker.csproj.CoreCompileInputs.cache
+C:\Users\K555L\source\repos\Stalker\Stalker\obj\Debug\netcoreapp2.1\Stalker.RazorAssemblyInfo.cache
+C:\Users\K555L\source\repos\Stalker\Stalker\obj\Debug\netcoreapp2.1\Stalker.RazorAssemblyInfo.cs
+C:\Users\K555L\source\repos\Stalker\Stalker\obj\Debug\netcoreapp2.1\Stalker.AssemblyInfoInputs.cache
+C:\Users\K555L\source\repos\Stalker\Stalker\obj\Debug\netcoreapp2.1\Stalker.AssemblyInfo.cs
+C:\Users\K555L\source\repos\Stalker\Stalker\obj\Debug\netcoreapp2.1\Stalker.RazorTargetAssemblyInfo.cache
+C:\Users\K555L\source\repos\Stalker\Stalker\bin\Debug\netcoreapp2.1\Stalker.pdb
+C:\Users\K555L\source\repos\Stalker\Stalker\obj\Debug\netcoreapp2.1\Stalker.dll
+C:\Users\K555L\source\repos\Stalker\Stalker\obj\Debug\netcoreapp2.1\Stalker.pdb
+C:\Users\K555L\source\repos\Stalker\Stalker\obj\Debug\netcoreapp2.1\Stalker.csprojAssemblyReference.cache
