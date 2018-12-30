@@ -14,7 +14,7 @@ Newtonsoft.Json
 
 ### Database:
 Northwind (LocalDB) , Initial Sql Table script is as below.
-- **Instagram_log Table:** [/SqlScripts/Scripts.sql](https://github.com/fatihyildizli/stalker/SqlScripts/Scripts.sql)
+- **Instagram_log Table:** [/SqlScripts/Scripts.sql](https://github.com/fatihyildizli/Stalker/tree/master/SqlScripts)
       
       
 
