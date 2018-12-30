@@ -13,7 +13,10 @@ Newtonsoft.Json
 ![Alt](/demo.PNG "Netflix Instagram Account")
 
 ### Database:
-Northwind (LocalDB) , Initial Sql Table script is attached.
+Northwind (LocalDB) , Initial Sql Table script is as below.
+- **Instagram_log Table:** [/SqlScripts/Scripts.sql](https://github.com/fatihyildizli/stalker/SqlScripts/Scripts.sql)
+      
+      
 
 
 
